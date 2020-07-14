@@ -3,16 +3,16 @@
 //РАЗДЕЛ: import
 
 import "./style.css";
-import Api from '../js/Api';
-import Card from '../js/Card';
-import CardList from '../js/CardList';
-import FormValidator from '../js/FormValidator';
+import Api from './scripts/Api';
+import Card from './scripts/Card';
+import CardList from './scripts/CardList';
+import FormValidator from './scripts/FormValidator';
 
-import PopupAvatar from '../js/PopupAvatar';
-import PopupEdit from '../js/PopupEdit';
-import PopupImage from '../js/PopupImage';
-import PopupNewPlace from '../js/PopupNewPlace';
-import UserInfo from '../js/UserInfo';
+import PopupAvatar from './scripts/PopupAvatar';
+import PopupEdit from './scripts/PopupEdit';
+import PopupImage from './scripts/PopupImage';
+import PopupNewPlace from './scripts/PopupNewPlace';
+import UserInfo from './scripts/UserInfo';
 
 //api
 const token = '6b280644-a256-46c9-84b9-48eada5c8ab9';

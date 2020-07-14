@@ -1,8 +1,8 @@
 {
   "name": "praktikum_sprint_11.github.io",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Проект Место с подключенным Webpack",
+  "main": "src/index.js",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "core-js": "^3.4.1"
@@ -38,7 +38,7 @@
     "type": "git",
     "url": "git+https://github.com/shishovKA/praktikum_sprint_11.github.io.git"
   },
-  "author": "",
+  "author": "Konstantin Shishov <shishov.k.a@yandex.ru>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shishovKA/praktikum_sprint_11.github.io/issues"
