@@ -1,6 +1,6 @@
 # Проект 11-го спринта - Webpack.
 ### Ссылка на проект
 [активная ссылка на проект (github pages)](
-https://shishovka.github.io/shishov_KA_sprint_10.github.io/)
+https://shishovka.github.io/praktikum_sprint_11.github.io/)
 ### Версия проекта:
 v0.0.1
