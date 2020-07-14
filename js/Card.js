@@ -1,4 +1,4 @@
-class Card {
+export default class Card {
 
     constructor (cardJSON, showImage, delCardApi, likeApi, dislikeApi) {
         this.text = cardJSON.name;
