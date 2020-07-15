@@ -1,4 +1,4 @@
-class Popup {
+export default class Popup {
 
     constructor (container) {
         this.container = container;
@@ -34,10 +34,8 @@ class Popup {
         const popup = document.createElement('div');
         popup.classList.add('popup');
         const __content = document.createElement('div');
-        const __close = document.createElement('img');
+        const __close = document.createElement('div');
         __close.classList.add('popup__close');
-        __close.src = "./images/close.svg";
-        __close.alt = "";
         __content.append(__close);
         popup.append(__content);
 
